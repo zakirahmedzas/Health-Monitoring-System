@@ -1,4 +1,4 @@
-# Health-Monitoring-System
+# IOT-Health-Monitoring-System
 Necessary Equipments: 
 1. ESP32 = 1
 2. Humidity Sensor(DHt22) = 1
